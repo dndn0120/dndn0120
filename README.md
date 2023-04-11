@@ -54,6 +54,18 @@
 ![Apache](https://img.shields.io/badge/Apache-%23D22128?logo=Apache&logoColor=white&style=flat-square)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=NGINX&logoColor=white&style=flat-square)
 
+### APM
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white&style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white&style=flat-square)
+
+### Logger
+![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=Sentry&logoColor=white&style=flat-square)
+
+### CI/CD
+![Git-runner](https://img.shields.io/badge/Git-runner-F05032?logo=git&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?logo=Portainer&logoColor=white&style=flat-square)
+
 ### Package Manager
 
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=Composer&style=flat-square)
