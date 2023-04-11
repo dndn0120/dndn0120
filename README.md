@@ -116,21 +116,41 @@
 
 # My Experience
 
-## Clickn
+## Groupware2.0
 
-- Homepage & Shopping mall Builder
+- Homepage Builder
+
+## SFA(Sales Force Automation)
+
+- Sales Management System
+
+## Infra Operation
+
+- Whois System Groupware Service Infra System Operating
+
+## Parcel Management System
+
+- Parel Management System
+
+## Chat API Server
+
+- LINE Games Chatting API Server
+
+## GameServer Sample For Game Development Company
+
+- Game Server Sample used LINE Games Platform
+
+## LINE Games SDK for Node.js
+
+- Make LINE Games SDK Package for Game Development Company
 
 ## Firstmall
 
 - Shopping mall
+- 
+## ClickN
 
-## Ypage
-
-- Homepage Builder
-
-## DanggunWeb
-
-- Homepage Builder
+- Shopping mall and Homepage Builder
 
 # Recent
 
