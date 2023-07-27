@@ -126,6 +126,12 @@
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=flat-square)
 
+### 🎞 Work Experience
+
+- [Gabia CNS](https://company.gabiacns.com/) | Backend Developer (2021.03 ~)
+- [LINE Games](https://line.games/) | Backend Developer (2020.01 ~ 2021.03)
+- [Whois](https://whois.co.kr/) | Backend Developer (2015.12 ~ 2020.01)
+
 # My Experience
 
 ## Groupware2.0
