@@ -101,6 +101,8 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&loog=&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&loog=&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&loog=&logoColor=white)
+![Python](https://img.shields.io/badge/Python-02569B?style=flat-square&logo=Python&loog=&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-135656?style=flat-square&logo=Langchain&loog=&logoColor=white)
 
 ### ClientSide Language
 
