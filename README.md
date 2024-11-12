@@ -130,7 +130,7 @@
 
 ### 🎞 Work Experience
 
-- [Gabia CNS](https://company.gabiacns.com/) | Backend Developer (2021.03 ~)
+- [Gabia](https://company.gabia.com/) | Backend Developer (2021.03 ~)
 - [LINE Games](https://line.games/) | Backend Developer (2020.01 ~ 2021.03)
 - [Whois](https://whois.co.kr/) | Backend Developer (2015.12 ~ 2020.01)
 
